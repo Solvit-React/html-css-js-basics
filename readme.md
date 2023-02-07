@@ -4,7 +4,8 @@
 ### Install project
 1. Clone the challenge from [Github](https://github.com/Solvit-React/html-css-js-basics.git)
 2. Install node on your computer
-3. run `npm run dev` in the project folder
+3. run `npm install` in the project folder to add dependencies
+4. run `npm run dev` in the project folder
 
 ### Project setup
 1. Write all your markup in the already created index.html file.
